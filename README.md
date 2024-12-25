@@ -7,10 +7,12 @@ We need bt onprem and server side.
     >.\venv\Scripts\activate
     
 After this step you can activate your kernal for onprem side  
+
 3.	For Cloud side we run this command to run a server. 
     >jupyter notebook --no--browser --port=8888
     
-Nexstep is catching the link has given 
+Nexstep is catching the link has given.
 We copy the link and paste it to Kernel preferences
+
 4.	Download the Lightphe library
     pip install lightphe
